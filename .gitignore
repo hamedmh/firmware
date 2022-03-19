@@ -1,7 +1,7 @@
 modules/
 boot/
-documentation/ilcomponents/
-.github/ISSUE_TEMPLATE/
+documentation/
+.github/
 extra/
-hardfp/opt/vc/
+hardfp/
 README.md
